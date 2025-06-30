@@ -2,9 +2,9 @@
 
 ## 1. Student Details
 
-- **Full Name**:
-- **GitHub Username**:
-- **Email**:
+- **Full Name**: Lydiah Wanjiku Mbugua
+- **GitHub Username**: lydiahw
+- **Email**: haidylwanjiku@gmail.com
 
 ## 2. Deployed Portfolio Link
 
@@ -17,8 +17,13 @@ List at least **four key concepts or skills** you learned during the Git crash c
 
 Example format:
 
-- **Branching**: Helped me separate features and prevent conflicts when working on different sections of the site.
-- _(Continue with other concepts…)_
+- **Cloning**: Learnt how to clone a repository which allows me to work on a collaboration project from my IDE remotely.
+
+-**Issues**: Working with issues allowed me to visually keep track of progress made within a milestone.
+
+**Milestones**: Allowed me to slowly break down the massive project into smaller manageable parts.
+
+**Merge**: This helped me review the overall code before adding it into the main branch and greatly reduced errors.
 
 ## 4. Screenshots of Key GitHub Features
 

@@ -2,14 +2,13 @@
 
 ## 1. Student Details
 
-- **Full Name**:
-- **GitHub Username**:
-- **Email**:
+- **Full Name**: Lydiah Wanjiku Mbugua
+- **GitHub Username**: lydiahw
+- **Email**: haidylwanjiku@gmail.com
 
 ## 2. Deployed Portfolio Link
 
-- **GitHub Pages URL**:  
-  _(Provide the live link to your deployed portfolio website)_
+- **GitHub Pages URL**:  https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-lydiahw/
 
 ## 3. Learnings from the Git Crash Program
 
@@ -17,8 +16,13 @@ List at least **four key concepts or skills** you learned during the Git crash c
 
 Example format:
 
-- **Branching**: Helped me separate features and prevent conflicts when working on different sections of the site.
-- _(Continue with other concepts…)_
+- **Cloning**: Learnt how to clone a repository which allows me to work on a collaboration project from my IDE remotely.
+
+-**Issues**: Working with issues allowed me to visually keep track of progress made within a milestone.
+
+**Milestones**: Allowed me to slowly break down the massive project into smaller manageable parts.
+
+**Merge**: This helped me review the overall code before adding it into the main branch and greatly reduced errors.
 
 ## 4. Screenshots of Key GitHub Features
 
@@ -32,21 +36,21 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 ```
 
 ### A. Milestones and Issues
-
-- Screenshot showing your milestone(s) and the issues linked to it.
+[Image showing milestones](images/milestones.png)
+[Image showing milestones and issues linked](images/Mile-Issues.png)
 
 ### B. Project Board
 
-- Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
+- [Screenshot of  GitHub Project Board with issues organized into columns](images/Project-board.png).
 
 ### C. Branching
 
-- Screenshot showing your branch list with meaningful naming.
+- [Screenshot showing your branch list](images/branch-list.png)
 
 ### D. Pull Requests
 
-- Screenshot of a pull request that’s either open or merged and linked to a related issue.
+- [Screenshot of a pull request](images/pull.png)
 
 ### E. Merge Conflict Resolution
 
-- Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
+- [Screenshot of a resolved merge conflict](images/merge.png).
